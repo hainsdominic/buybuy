@@ -1,0 +1,5 @@
+# BuyBuy
+
+## Setup
+
+`diesel setup`
